@@ -1,12 +1,10 @@
 - Hi, I’m @brackeneddy
+
 - I’m interested:
   - Machine Learning
   - Quantative Analysis
   - Backend Engineering
-- Tech Stack
-  - Python/JavaScript
-  - AWS/
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  - brackeneddy23@gmail.com
+  - [LinkedIn](https://www.linkedin.com/in/bracken-eddy/)
